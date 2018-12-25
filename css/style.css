@@ -1,0 +1,80 @@
+* {
+    margin: 0;
+    padding: 0px;
+}
+
+body {
+    background-color: #f5f0eb3b;
+}
+
+/* login */
+
+.kosong {
+
+    margin: 10px auto;
+    width: 250px;
+    box-shadow: 5px 5px 10px 5px rgba(233, 236, 223, 0.62);
+}
+
+.judul {
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 120px;
+}
+
+/* akhir login */
+
+/* nav */
+.navbar {
+    position: relative;
+    z-index: 1;
+}
+
+nav-link {
+    color: #ffff;
+}
+
+/* section */
+
+
+
+/* akhir section */
+
+/* akhir nav */
+
+
+/* jumbotron */
+
+
+
+
+
+/* akhir jumbotron */
+
+/* footer */
+
+
+
+footer {
+    margin: 5px;
+    background-color: rgb(95, 168, 115);
+    height: 150px;
+
+}
+
+.material-icons {
+    color: red;
+}
+
+/* end footer */
+
+@media (min-width: 992px) {
+
+
+    .jbr {
+        margin-top: -60px;
+    }
+
+
+}
